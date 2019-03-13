@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+.nav-link {
+    position: relative;
+    float: right;
+    padding: 2rem;
+}
+
+header {
+    background: slategray;
+    height: 5.5rem;
+}
+
+#header-img {
+    height: 4rem;
+    width: 4rem;
+    position: relative;
+    top: .75rem;
+    left: 2rem;
+}
+
+#home {
+    width: 1080px;
+
+    margin: auto;
+    padding: 50px 0 50px 0;
+    vertical-align: middle;
+}
+
+#products {
+    width: 1080px;
+    height: 600px;
+    margin: auto;
+    padding: 30px 0 30px 0;
+}
+
+#video {
+
+    text-align: center;
+}
+
+#products {
+    text-align: center;
+}
